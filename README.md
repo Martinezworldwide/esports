@@ -1,3 +1,3 @@
 # esports
 
-https://martinezworldwide.githib.io/esports
+https://martinezworldwide.github.io/esports
